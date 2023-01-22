@@ -15,8 +15,8 @@ public class SeleniumTests {
     private static WebDriver driver;
     private final String baseUrl = "https://www.olx.ba";
     private static String chromedriverPath = "/usr/local/bin/chromedriver";
-    private final String username = "Sake0011";
-    private final String password  = "779185";
+    private final String username = "******";
+    private final String password  = "*******";
 
 
     @BeforeAll
